@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Env
+.env
+
+# VS Code
+.vscode/
+
+# DeepFace
+.deepface/
+
+# OS
+Thumbs.db
+.DS_Store
